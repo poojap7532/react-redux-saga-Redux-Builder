@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "productName": "mobile",
+      "price": 200,
+      "id": 1
+    },
+    {
+      "productName": "H",
+      "price": "1234",
+      "id": 2
+    },
+    {
+      "productName": "asdf",
+      "price": "12312",
+      "id": 3
+    },
+    {
+      "productName": "watch",
+      "price": "1",
+      "id": 4
+    },
+    {
+      "productName": "T.V",
+      "price": "5",
+      "id": 5
+    },
+    {
+      "productName": "iphone",
+      "price": "6",
+      "id": 6
+    }
+  ]
+}
